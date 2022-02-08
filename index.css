@@ -34,6 +34,18 @@ i:hover{
     height: 10%;
 }
 
+.h-40{
+    height: 40%;
+}
+
+.h-80{
+    height: 80%;
+}
+
+.h-90{
+    height: 90%;
+}
+
 .w-5{
     width: 5%;
 }
@@ -66,6 +78,10 @@ i:hover{
     background-color: #1A1C19;
 }
 
+.text-purple{
+    color: #5D52CC;
+}
+
 .gap-1rem{
     gap: 1rem;
 }
@@ -84,6 +100,18 @@ i:hover{
     font-size: 0.8rem;
 }
 
+.font-size2{
+    font-size: 1rem;
+}
+
+.font-size3{
+    font-size: 1.2rem;
+}
+
+.font-size4{
+    font-size: 4.5rem;
+}
+
 .font-size5{
     font-size: 5rem;
 }
@@ -92,3 +120,7 @@ i:hover{
     font-weight: 700;
 }
 
+
+.gap-7{
+    gap: 7%;
+}
